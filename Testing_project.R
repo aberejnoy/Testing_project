@@ -1,0 +1,1 @@
+print('that can be funny, huh?')
